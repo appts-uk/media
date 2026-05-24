@@ -12,7 +12,9 @@ https://raw.githubusercontent.com/appts-uk/media/main/images/logos/logo.png
 
 ## Assets
 
-| File | Description |
-|---|---|
-| [`images/logos/logo.png`](images/logos/logo.png) | Primary logo |
-| [`images/logos/logo-dark.png`](images/logos/logo-dark.png) | Dark variant logo |
+| Preview | File | Description |
+|---|---|---|
+| <img src="images/logos/logo.png" width="120"> | [`images/logos/logo.png`](images/logos/logo.png) | Primary logo |
+| <img src="images/logos/logo-dark.png" width="120"> | [`images/logos/logo-dark.png`](images/logos/logo-dark.png) | Dark variant logo |
+| <img src="images/logos/icon.png" width="48"> | [`images/logos/icon.png`](images/logos/icon.png) | App icon |
+| <img src="images/logos/icon-dark.png" width="48"> | [`images/logos/icon-dark.png`](images/logos/icon-dark.png) | Dark variant app icon |
